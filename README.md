@@ -13,3 +13,5 @@ Our Team Members are -
 3. Suryansh Soni
 
 You can view this site live at  http://www.nosma.hol.es/
+
+note: Website is managed by Srajan Soni.
