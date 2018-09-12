@@ -8,9 +8,9 @@ Technolofies used are - HTML, Javascript, CSS, PHP, JQURY, AJAX.
 We used Mysql database for this app and tables were designed keeping in view the concepts of RDBMS (Relational Database).
 
 Our Team Members are - 
-1. Srajan Soni
-2. Anuj Mehta
-3. Suryansh Soni
+1. [Srajan Soni](https://github.com/srajan96)
+2. Anuj Mehta (thats me!)
+3. [Suryansh Soni](https://github.com/suryanshsoni)
 
 You can view this site live at  http://www.nosma.hol.es/
 
